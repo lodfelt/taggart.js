@@ -8,7 +8,7 @@ Introducing Taggart.js - named after the grumpy sergeant in Beverly Hills Cop.
 
 Installing?
 
-Download taggart.js and put in your js-folder after jQuery.
+Download taggart.js and put in your js-folder and include it after jQuery.
 
 Done!
 
