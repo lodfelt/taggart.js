@@ -28,8 +28,9 @@ The default settings are:
 ``` javascript
 var settings = {
     submitButton: 13,
- 	targetSelector: '.tag-container ul',
+     targetSelector: '.tag-container ul',
  	addUrl: '',
- 	delUrl: ''
+ 	delUrl: '',
+    btnClass: 'taggart-btn'
 }
-``
+```
